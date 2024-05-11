@@ -1,0 +1,2 @@
+This is Add To Cart Mobile App built with HTML, CSS, javascript and site.webmanifest.
+Through this mobile app, you can add your shopping item to the cart as well as delete your shopping item from the cart.
